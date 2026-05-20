@@ -39,7 +39,7 @@ export function Hero() {
               initial={{ y: 80, opacity: 0 }}
               animate={{ y: 0, opacity: 1 }}
               transition={{ delay: 0.1, duration: 1, ease: [0.22, 1, 0.36, 1] }}
-              className="font-display text-[17vw] leading-[0.78] md:text-[12vw]"
+              className="font-display text-white text-[17vw] leading-[0.78] md:text-[12vw]"
             >
               Quiet Form.
               <br />
@@ -47,7 +47,7 @@ export function Hero() {
             </motion.h1>
           </div>
           <motion.div initial={{ y: 36, opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ delay: 0.35 }} className="max-w-md md:justify-self-end">
-            <p className="mb-8 text-lg leading-relaxed text-ink/75">
+            <p className="mb-8 text-lg leading-relaxed text-white">
               Sculptural tailoring, disciplined knitwear, and limited-run objects for a wardrobe that speaks softly and lands with intent.
             </p>
             <div className="flex flex-wrap gap-3">
