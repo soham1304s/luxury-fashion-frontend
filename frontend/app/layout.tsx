@@ -5,14 +5,14 @@ import { Footer } from "@/components/layout/Footer";
 import { MotionProvider } from "@/components/layout/MotionProvider";
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://maisonvanta.com"),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://xyzfashion.com"),
   title: {
-    default: "Maison Vanta | Luxury Fashion Ecommerce",
-    template: "%s | Maison Vanta"
+    default: "XYZ Fashion | Luxury Fashion Ecommerce",
+    template: "%s | XYZ Fashion"
   },
   description: "A cinematic luxury fashion ecommerce experience for sculptural tailoring, knitwear, accessories, and editorial collections.",
   openGraph: {
-    title: "Maison Vanta",
+    title: "XYZ Fashion",
     description: "Quiet luxury clothing, editorial ecommerce, and limited-run collections.",
     type: "website",
     images: ["/opengraph-image.jpg"]

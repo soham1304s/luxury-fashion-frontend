@@ -20,7 +20,7 @@ export function Hero() {
       <motion.div style={{ y }} className="absolute inset-0">
         <Image
           src={backgroundImages[0]}
-          alt="Maison Vanta colorful fashion campaign"
+          alt="XYZ Fashion colorful fashion campaign"
           fill
           priority
           className="object-cover"

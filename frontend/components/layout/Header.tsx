@@ -35,7 +35,7 @@ export function Header() {
             <Menu size={22} />
           </button>
           <Link href="/" className="text-xl font-semibold uppercase tracking-[0.26em] md:text-2xl">
-            Maison Vanta
+            XYZ Fashion
           </Link>
           <nav className="hidden items-center gap-8 md:flex">
             {nav.map(([label, href]) => (

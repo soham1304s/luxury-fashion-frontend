@@ -20,7 +20,7 @@ export function BrandStory() {
           <p className="mb-8 text-xs uppercase tracking-luxury text-white/50">Brand Story</p>
           <h2 className="font-display text-5xl leading-none md:text-8xl">The wardrobe as architecture.</h2>
           <p className="mt-10 text-lg leading-relaxed text-white/70">
-            Maison Vanta designs around absence: fewer gestures, sharper decisions, richer materials. Every silhouette is built for motion, proportion, and repetition.
+            XYZ Fashion designs around absence: fewer gestures, sharper decisions, richer materials. Every silhouette is built for motion, proportion, and repetition.
           </p>
         </motion.div>
       </div>

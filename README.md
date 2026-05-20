@@ -1,4 +1,4 @@
-# Maison Vanta Luxury Ecommerce
+# XYZ Fashion Luxury Ecommerce
 
 A full-stack luxury fashion ecommerce build with a cinematic Next.js storefront and a secure Express/MongoDB commerce API.
 

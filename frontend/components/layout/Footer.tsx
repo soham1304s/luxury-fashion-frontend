@@ -12,7 +12,7 @@ export function Footer() {
             <p className="mb-8 max-w-xl text-sm uppercase tracking-luxury text-white/60">
               A disciplined wardrobe of sculptural essentials, made in limited editions.
             </p>
-            <h2 className="font-display text-[18vw] leading-[0.82] md:text-[13vw]">VANTA</h2>
+            <h2 className="font-display text-[18vw] leading-[0.82] md:text-[13vw]">XYZ</h2>
           </div>
           <div className="grid content-between gap-10">
             <form className="space-y-5">
@@ -35,7 +35,7 @@ export function Footer() {
                 <Link href="/checkout">Shipping</Link>
                 <Link href="/dashboard">Orders</Link>
                 <Link href="/admin">Admin</Link>
-                <a href="mailto:studio@maisonvanta.com" className="flex items-center gap-2">
+                <a href="mailto:studio@xyzfashion.com" className="flex items-center gap-2">
                   <Mail size={14} /> Studio
                 </a>
                 <a href="https://instagram.com" className="flex items-center gap-2">
