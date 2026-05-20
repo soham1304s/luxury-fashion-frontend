@@ -9,11 +9,10 @@ export function Hero() {
   const { scrollY } = useScroll();
   const y = useTransform(scrollY, [0, 800], [0, 160]);
 
-  // Beautiful girl images with light backgrounds for luxury fashion
   const backgroundImages = [
     "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=2200&q=90", // Elegant woman with light airy background
     "https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?auto=format&fit=crop&w=2200&q=90", // Beautiful girl in white with clean background
-    "https://images.unsplash.com/photo-1503454537688-e6876160b485?auto=format&fit=crop&w=2200&q=90", // Fashion model with minimal light background
+    "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=2200&q=90", // Fashion model with minimal light background
   ];
 
   return (

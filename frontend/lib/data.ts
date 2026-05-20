@@ -89,8 +89,8 @@ export const products: Product[] = [
     sizes: ["XS", "S", "M", "L"],
     material: "Virgin wool gabardine",
     images: [
-      "https://images.unsplash.com/photo-1506629905607-d405d7d3b0d2?auto=format&fit=crop&w=1400&q=85",
-      "https://images.unsplash.com/photo-1502720705749-3c2bb2bd1d9b?auto=format&fit=crop&w=1400&q=85"
+      "https://images.unsplash.com/photo-1604467715878-83e57e8bc129?auto=format&fit=crop&w=1400&q=85",
+      "https://images.unsplash.com/photo-1592301933927-35b597393c0a?auto=format&fit=crop&w=1400&q=85"
     ],
     description: "A precise, elongated blazer with internal shaping and a single covered button.",
     rating: 4.9,
